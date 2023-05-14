@@ -1,3 +1,6 @@
+# Preliminary
+PASTE FRONTEND REPO (https://github.com/resa18/react-news-app) TO FRONTEND FOLDER
+
 # Setting Backend
 1. Go to backend folder
 2. Create .env from .env.example (adjust if any parameter need to be changes regarding your local requirement)
