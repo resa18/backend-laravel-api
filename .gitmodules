@@ -1,0 +1,3 @@
+[submodule "frontendd"]
+	path = frontendd
+	url = https://github.com/resa18/testLaravel.git
