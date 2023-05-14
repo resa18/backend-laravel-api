@@ -1,15 +1,15 @@
 # Setting Backend
 1. Go to backend folder
-2. composer install
+2. Create .env from .env.example (adjust if any parameter need to be changes regarding your local requirement)
+3. composer install
 
 # Setting Frontend
 1. Go to frontend folder
 2. npm install --force
 
-
 # Setting Docker
 1. setting up docker-compose.yaml file. Adjusted with your local settings
-2. open cli > run "docker compose up" and wait the process
+2. open cli on root folder > run "docker compose up" and wait the process
 3. Run : docker exec testlaravel-backend-1 php artisan migrate
 4. Run :docker compose up
 
